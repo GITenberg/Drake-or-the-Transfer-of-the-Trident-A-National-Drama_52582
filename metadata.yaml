@@ -1,0 +1,29 @@
+_repo: Drake-or-the-Transfer-of-the-Trident-A-National-Drama_52582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacOubrey, William
+    aliases:
+    - Mac Oubrey, William
+    - Oubrey, William Mac
+    birthdate: 1800
+    deathdate: 1884
+    gutenberg_agent_id: '46945'
+    url: http://www.gutenberg.org/2009/agents/46945
+description: ''
+gutenberg_issued: '2016-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama -- 19th century'
+- !lcsh 'Drake, Francis, approximately 1540-1596 -- Drama'
+- !lcsh 'Elizabeth I, Queen of England, 1533-1603 -- Drama'
+- GITenberg
+title: 'Drake; or, the Transfer of the Trident: A National Drama'
+url: http://www.gutenberg.org/ebooks/52582
